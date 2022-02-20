@@ -1,0 +1,12 @@
+Black:			#000000
+White:			#ffffff
+Background-color:	#d0c570
+Light-green:		#66d553
+Dark-green:		#306d00
+Red:			#ff1000
+Pink:			#ff1fce
+Orange:			#ff8b00
+Yellow:			#ffc511
+Light-blue:		#4fa0b7
+another-blue:		#336ed9
+Dark-blue:		#331eb5
